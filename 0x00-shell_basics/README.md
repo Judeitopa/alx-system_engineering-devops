@@ -1,1 +1,1 @@
-display directory content with hidden files
+this script print files with user ID
