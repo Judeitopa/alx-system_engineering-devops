@@ -1,1 +1,1 @@
-this script prints the list of current directory
+this script sets directory to home
