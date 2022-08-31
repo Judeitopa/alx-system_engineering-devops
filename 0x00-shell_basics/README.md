@@ -1,1 +1,1 @@
-this script print files with user ID
+this script creates a dir in another dir
