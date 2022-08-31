@@ -1,1 +1,1 @@
-this script sets directory to home
+this script list the file of the current directory in long format
