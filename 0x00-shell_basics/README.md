@@ -1,1 +1,1 @@
-this script deletes a file
+this script deletes a dir
