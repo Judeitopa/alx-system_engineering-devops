@@ -1,1 +1,1 @@
-script creates a dir in the current dir
+script list all dir seperated by ,
