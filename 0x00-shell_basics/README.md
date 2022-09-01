@@ -1,1 +1,1 @@
-script list all dir seperated by ,
+script creates a magic file
