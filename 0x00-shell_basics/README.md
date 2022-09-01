@@ -1,1 +1,1 @@
-script moves files with uppercase to a dir
+script deletes file that end with /root
