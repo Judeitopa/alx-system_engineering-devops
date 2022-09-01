@@ -1,1 +1,1 @@
-script deletes file that end with /root
+script creates a dir in the current dir
