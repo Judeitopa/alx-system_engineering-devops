@@ -1,1 +1,1 @@
-this script deletes a dir
+this script changes dir to init dir
